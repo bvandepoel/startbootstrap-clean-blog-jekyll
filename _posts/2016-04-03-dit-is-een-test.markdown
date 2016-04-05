@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Dit is een test"
+title:      "Dit is een post over Pizza"
 subtitle:   "Hier komt een lange subtitle"
 date:       2016-04-05 12:00:00
 author:     "Bart"
