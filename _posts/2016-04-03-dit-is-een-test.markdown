@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Dit is een test."
+title:      "Dit is een test"
 date:       2016-04-05 12:00:00
-author:     "Start Bootstrap"
+author:     "Bart"
 header-img: "img/post-bg-02.jpg"
 ---
 
@@ -22,9 +22,9 @@ print(x)
 
 And here is some code with syntax highlighting
 
-{% highlight javascript linenos %}
+~~~
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-{% endhighlight %}
+~~~
