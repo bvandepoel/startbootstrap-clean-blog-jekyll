@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Dit is een test"
+subtitle:   "Hier komt een lange subtitle"
 date:       2016-04-05 12:00:00
 author:     "Bart"
 header-img: "img/post-bg-02.jpg"
