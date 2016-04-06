@@ -23,12 +23,21 @@ print(x)
 
 And here is some code with syntax highlighting
 
-~~~
+~~~javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ~~~
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+
 ```python
 def function():
   print "Hello"
