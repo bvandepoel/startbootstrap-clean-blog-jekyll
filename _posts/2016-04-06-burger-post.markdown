@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Burgers at Shake Shack. I don't intend to waste any of mine."
+subtitle:   "Burgers look mighty small from 150 miles up"
 date:       2016-04-06 12:00:00
 author:     "Bart"
 header-img: "img/shakeshack.jpg"
