@@ -29,6 +29,7 @@ var foo = function(x) {
 }
 foo(3)
 ~~~
-```
-awdawd aawdawdawd
+```python
+def function():
+  print "Hello"
 ```
