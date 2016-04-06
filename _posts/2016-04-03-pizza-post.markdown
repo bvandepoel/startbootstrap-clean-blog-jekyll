@@ -29,3 +29,6 @@ var foo = function(x) {
 }
 foo(3)
 ~~~
+```
+awdawd aawdawdawd
+```
