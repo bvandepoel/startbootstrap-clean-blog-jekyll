@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Burgers at Shake Shack. I don't intend to waste any of mine."
-date:       2016-04-04 12:00:00
+date:       2016-04-06 12:00:00
 author:     "Bart"
 header-img: "img/shakeshack.jpg"
 ---
